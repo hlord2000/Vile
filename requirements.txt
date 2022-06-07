@@ -1,0 +1,3 @@
+PySimpleGUI~=4.60.1
+pycaw~=20220416
+pyserial~=3.5
